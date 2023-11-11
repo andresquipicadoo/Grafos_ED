@@ -1,0 +1,13 @@
+C:\Users\aquir\AppData\Local\JetBrains\CLion2023.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/g++.exe -G "CodeBlocks - Unix Makefiles" -S /cygdrive/c/Users/aquir/OneDrive/Desktop/GitHub/grafos_ed -B /cygdrive/c/Users/aquir/OneDrive/Desktop/GitHub/grafos_ed/cmake-build-debug
+-- Configuring done (0.3s)
+CMake Error at CMakeLists.txt:8 (add_executable):
+  Cannot find source file:
+
+    INodo.h
+
+
+CMake Error at CMakeLists.txt:8 (add_executable):
+  No SOURCES given to target: grafos_ed
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

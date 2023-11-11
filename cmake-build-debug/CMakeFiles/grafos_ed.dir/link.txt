@@ -1,0 +1,1 @@
+/usr/bin/g++.exe -g -Wl,--enable-auto-import CMakeFiles/grafos_ed.dir/grafos.cpp.o -o grafos_ed.exe -Wl,--out-implib,libgrafos_ed.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

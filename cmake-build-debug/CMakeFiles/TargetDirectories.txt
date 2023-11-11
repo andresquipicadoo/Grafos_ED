@@ -1,0 +1,3 @@
+/cygdrive/c/Users/aquir/OneDrive/Desktop/GitHub/grafos_ed/cmake-build-debug/CMakeFiles/grafos_ed.dir
+/cygdrive/c/Users/aquir/OneDrive/Desktop/GitHub/grafos_ed/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/aquir/OneDrive/Desktop/GitHub/grafos_ed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
